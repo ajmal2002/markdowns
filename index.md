@@ -4,3 +4,8 @@
 ```
 print("Hello World! This is Ajmal!!!")
 ```
+- [X] Step 1
+- [X] Step 2
+- [X] Step 3
+- [ ] Step 4
+- [ ] Step 5
